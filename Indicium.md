@@ -20,3 +20,4 @@ Upon closer inspection, the text appeared to be shifted by one character in the 
 ## 🏆 The Revelation
 With the pieces in place, the final message emerged from the shadows: 
 `flag{bb154bdf002a620db657b8df84a87064}`
+ 
